@@ -1,32 +1,27 @@
 {
-  "ip": "68.125.66.39",
+  "ip": "69.125.66.39",
   "is_eu": false,
-  "city": null,
-  "region": null,
-  "region_code": null,
-  "region_type": null,
+  "city": "Hackensack",
+  "region": "New Jersey",
+  "region_code": "NJ",
+  "region_type": "state",
   "country_name": "United States",
   "country_code": "US",
   "continent_name": "North America",
   "continent_code": "NA",
-  "latitude": 37.750999450683594,
-  "longitude": -97.8219985961914,
-  "postal": null,
+  "latitude": 40.890499114990234,
+  "longitude": -74.05039978027344,
+  "postal": "07601",
   "calling_code": "1",
   "flag": "https://ipdata.co/flags/us.png",
   "emoji_flag": "\ud83c\uddfa\ud83c\uddf8",
   "emoji_unicode": "U+1F1FA U+1F1F8",
   "asn": {
-    "asn": "AS7018",
-    "name": "AT&T Services, Inc.",
-    "domain": "att.com",
-    "route": "68.120.0.0/13",
-    "type": "business"
-  },
-  "carrier": {
-    "mcc": "310",
-    "mnc": "016",
-    "name": "AT&T"
+    "asn": "AS6128",
+    "name": "Cablevision Systems Corp.",
+    "domain": "optimum.com",
+    "route": "69.120.0.0/13",
+    "type": "isp"
   },
   "languages": [
     {
@@ -43,11 +38,11 @@
     "plural": "US dollars"
   },
   "time_zone": {
-    "name": null,
-    "abbr": null,
-    "offset": null,
-    "is_dst": null,
-    "current_time": null
+    "name": "America/New_York",
+    "abbr": "EDT",
+    "offset": "-0400",
+    "is_dst": true,
+    "current_time": "2022-08-27T15:21:33-04:00"
   },
   "threat": {
     "is_tor": false,

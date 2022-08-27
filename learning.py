@@ -1,13 +1,5 @@
-import sys
-import requests
+from json import load
+from dotenv import dotenv_values
+import os
 
-print(sys.version)
-print(sys.executable)
-
-def greeting(who_to_greet):
-    greeting = 'Hello, {}'.format(who_to_greet)
-    return greeting
-
-r = requests.get('https://coreyms.com')
-
-print(r.status_code)
+con = dotenv_values('.env')
