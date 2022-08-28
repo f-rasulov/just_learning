@@ -1,6 +1,7 @@
-from json import load
-from dotenv import dotenv_values
-import os
-import sys
+# basic calculater
 
-con = dotenv_values('.env')
+def add(x,y):
+    pass
+
+def multiply(x,y):
+    pass
